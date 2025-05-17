@@ -8,7 +8,6 @@ public class Variables {
 	public static final String ProjectDirectory = System.getProperty("user.dir");
 	public static final String InputDataDirectory = System.getProperty("user.dir")+"\\InputData\\";
 	public static final String OutputDataDirectory = System.getProperty("user.dir")+"\\OutputData\\";
-	public static final String LogDirectory = System.getProperty("user.dir")+"\\Logs\\";
 	public static final String XMLtoExcelOutputDirectory = System.getProperty("user.dir")+"\\OutputData\\XMLtoExcel.xlsx";
 
 	public static String XMLFilePath = InputDataDirectory;

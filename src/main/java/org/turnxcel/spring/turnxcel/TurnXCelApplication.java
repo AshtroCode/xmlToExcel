@@ -43,7 +43,7 @@ public class TurnXCelApplication {
                 .build();
 
         HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
-//        System.out.println("Status code: " + response.statusCode());
+        System.out.println("Health API status code: " + response.statusCode());
 //        System.out.println("Body: " + response.body());
     }
 
