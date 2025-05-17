@@ -1,0 +1,359 @@
+17:44:25.446 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+17:44:25.522 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 45668 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+17:44:25.526 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+17:44:26.549 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+17:44:26.555 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+17:44:26.557 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:44:26.557 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+17:44:26.615 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:44:26.617 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1038 ms
+17:44:26.751 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+17:44:27.022 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+17:44:27.039 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+17:44:27.047 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 2.025 seconds (process running for 2.439)
+17:51:57.480 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:51:57.480 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:51:57.482 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+18:03:42.192 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:03:42.259 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 48196 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:03:42.260 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:03:43.323 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:03:43.330 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:03:43.333 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:03:43.333 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:03:43.390 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:03:43.391 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1082 ms
+18:03:43.398 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:03:43.507 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:03:43.818 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:03:43.834 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:03:43.841 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 2.029 seconds (process running for 2.353)
+18:03:47.059 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:03:47.060 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+18:03:47.061 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+18:03:51.999 [http-nio-8080-exec-3] INFO  o.t.turnxcel.xmlreader.XmlParserT4 - Reading XML file: sitemap (1).xml
+18:03:52.490 [http-nio-8080-exec-3] INFO  o.t.t.converter.ConfigXmlToExcel - Configuration XML data has been successfully converted to Excel format
+18:07:47.200 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:07:47.268 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 53816 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:07:47.269 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:07:48.245 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:07:48.253 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:07:48.256 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:07:48.256 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:07:48.312 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:07:48.313 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 991 ms
+18:07:48.319 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:07:48.418 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:07:48.658 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:07:48.676 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:07:48.684 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 1.895 seconds (process running for 2.269)
+18:07:51.963 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:07:51.963 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+18:07:51.963 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+18:08:42.054 [http-nio-8080-exec-3] INFO  o.t.turnxcel.xmlreader.XmlParserT4 - Reading XML file: sitemap (1).xml
+18:08:42.510 [http-nio-8080-exec-3] INFO  o.t.t.converter.ConfigXmlToExcel - Configuration XML data has been successfully converted to Excel format
+18:10:47.592 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:10:47.666 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 62856 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:10:47.667 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:10:48.623 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:10:48.631 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:10:48.633 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:10:48.633 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:10:48.690 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:10:48.691 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 971 ms
+18:10:48.697 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:10:48.792 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:10:49.034 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:10:49.056 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:10:49.063 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 1.912 seconds (process running for 2.299)
+18:10:51.290 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:10:51.290 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+18:10:51.291 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+18:12:32.123 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:12:32.196 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 64336 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:12:32.197 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:12:33.313 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:12:33.322 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:12:33.325 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:12:33.325 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:12:33.389 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:12:33.390 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1142 ms
+18:12:33.400 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:12:33.520 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:12:33.808 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:12:33.825 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:12:33.832 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 2.108 seconds (process running for 2.468)
+18:12:34.327 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:12:34.327 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+18:12:34.328 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+18:13:14.950 [http-nio-8080-exec-6] INFO  o.t.turnxcel.xmlreader.XmlParserT4 - Reading XML file: sitemap.xml
+18:13:15.259 [http-nio-8080-exec-6] INFO  o.t.t.converter.ConfigXmlToExcel - Configuration XML data has been successfully converted to Excel format
+18:14:47.402 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:14:47.494 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 52164 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:14:47.495 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:14:48.604 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:14:48.615 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:14:48.617 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:14:48.618 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:14:48.702 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:14:48.705 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1151 ms
+18:14:48.711 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:14:48.863 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:14:49.161 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:14:49.178 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:14:49.187 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 2.259 seconds (process running for 2.7)
+18:23:45.266 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:23:45.335 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 50940 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:23:45.335 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:23:46.415 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:23:46.427 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:23:46.430 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:23:46.430 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:23:46.491 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:23:46.492 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1106 ms
+18:23:46.499 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:23:46.620 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:23:46.913 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:23:46.928 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:23:46.935 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 2.063 seconds (process running for 2.408)
+18:24:28.621 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:24:28.701 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 62084 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:24:28.701 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:24:29.691 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:24:29.699 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:24:29.701 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:24:29.702 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:24:29.759 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:24:29.760 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1009 ms
+18:24:29.767 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:24:29.881 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:24:30.159 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:24:30.190 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:24:30.197 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 1.979 seconds (process running for 2.321)
+18:25:58.651 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:25:58.725 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 56528 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:25:58.726 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:25:59.754 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:25:59.762 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:25:59.764 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:25:59.765 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:25:59.818 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:25:59.820 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1042 ms
+18:25:59.826 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:25:59.948 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:26:00.277 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:26:00.294 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:26:00.304 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 2.055 seconds (process running for 2.393)
+18:26:05.478 [http-nio-8080-exec-1] INFO  o.a.coyote.http11.Http11Processor - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x030x010xe30x010x000x010xdf0x030x03d0x86[0xf6%0x00`90xaf0x980xdb>A0xc50xcc*0xd1e0xfevb0xdf0x190xd0T0xb50x99k0x930xcd0xc10xe2 ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:407)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:264)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+18:26:50.534 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:26:50.609 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 53284 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:26:50.610 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:26:51.586 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:26:51.593 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:26:51.596 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:26:51.596 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:26:51.662 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:26:51.664 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1006 ms
+18:26:51.673 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:26:51.781 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:26:52.054 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:26:52.068 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:26:52.075 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 1.955 seconds (process running for 2.354)
+18:26:55.455 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:26:55.455 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+18:26:55.456 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+18:26:57.242 [http-nio-8080-exec-3] INFO  o.a.coyote.http11.Http11Processor - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x030x010xe30x010x000x010xdf0x030x030xd6 ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:407)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:264)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+18:30:08.370 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:30:08.439 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 15200 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:30:08.440 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:30:09.393 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:30:09.402 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:30:09.405 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:30:09.405 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:30:09.468 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:30:09.469 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 983 ms
+18:30:09.477 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:30:09.592 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:30:09.842 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:30:09.862 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:30:09.870 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 1.931 seconds (process running for 2.279)
+18:30:15.088 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:30:15.088 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+18:30:15.088 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+18:30:36.749 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:30:36.811 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 62524 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:30:36.812 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:30:37.819 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:30:37.827 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:30:37.829 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:30:37.829 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:30:37.886 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:30:37.888 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1023 ms
+18:30:37.893 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:30:38.000 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:30:38.280 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:30:38.293 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:30:38.301 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 2.006 seconds (process running for 2.363)
+18:30:43.480 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:30:43.481 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+18:30:43.482 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+18:32:27.665 [main] INFO  o.s.boot.SpringApplication - 
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+
+18:32:27.744 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Starting TurnXCelApplication using Java 17.0.9 with PID 52960 (C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel\target\classes started by anike in C:\Users\anike\Documents\Projects\xmlToExcel\xmlToExcel)
+18:32:27.745 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - No active profile set, falling back to 1 default profile: "default"
+18:32:28.653 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+18:32:28.659 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+18:32:28.662 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:32:28.663 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+18:32:28.733 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:32:28.734 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 943 ms
+18:32:28.741 [main] INFO  o.t.s.turnxcel.config.CorsConfig - CORS config added for port 3000
+18:32:28.854 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+18:32:29.060 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+18:32:29.072 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+18:32:29.078 [main] INFO  o.t.s.turnxcel.TurnXCelApplication - Started TurnXCelApplication in 1.804 seconds (process running for 2.184)
+18:33:29.244 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:33:29.244 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+18:33:29.245 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+18:33:44.041 [http-nio-8080-exec-2] INFO  o.t.turnxcel.xmlreader.XmlParserT4 - Reading XML file: sitemap (1).xml
+18:33:44.480 [http-nio-8080-exec-2] INFO  o.t.t.converter.ConfigXmlToExcel - Configuration XML data has been successfully converted to Excel format

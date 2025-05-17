@@ -1,0 +1,8 @@
+org\turnxcel\spring\turnxcel\config\CorsConfig.class
+org\turnxcel\spring\turnxcel\controller\FileController.class
+com\commons\setup\Variables.class
+org\turnxcel\turnxcel\xmlreader\XmlParserT4.class
+org\turnxcel\turnxcel\converter\ConfigXmlToExcel.class
+org\turnxcel\turnxcel\xmlreader\XmlParserT5.class
+org\turnxcel\turnxcel\xmlreader\XmlParserCORE.class
+org\turnxcel\spring\turnxcel\TurnXCelApplication.class
